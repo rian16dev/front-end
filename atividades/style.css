@@ -1,0 +1,22 @@
+body{
+    background-image: url(/imagens/wallpaper005.jpg);
+}
+
+div.quadrado{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgray;
+    width: 300px;
+    height: 300px;
+}
+
+div#cor1{
+    background-color: aqua;
+}
+div#cor2{
+    background-color: blueviolet;
+}
+div#cor3{
+    background-image: url(/imagens/wallpaper001.jpg);
+}
